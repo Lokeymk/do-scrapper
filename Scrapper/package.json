@@ -1,0 +1,27 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "A web scrapping node script",
+  "main": "scrapper.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joseph Harskamp",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.3",
+    "html-to-array": "^1.0.2",
+    "node-gyp": "^3.8.0",
+    "node-pre-gyp": "^0.12.0",
+    "node-psd": "^1.0.1",
+    "phantom": "^6.2.0",
+    "prompts": "^2.0.4",
+    "psd": "^3.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "request": "^2.88.0",
+    "scrap-grabber": "^1.0.2",
+    "website-scraper": "^4.0.0"
+  }
+}
